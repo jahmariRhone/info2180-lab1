@@ -1,13 +1,21 @@
 h1 {
-	font-size:24px;
-	color:#38B2AC;
+	font-size:26px;
+	color:#44CCAC;
+	margin:5px;
 }
 
 h2 {
 	font-size:21px;
-	color:#5A67D8;
+	color:#6060DD;
+	margin:5px;
 }
 
 p {
-	font-size:18px;
+	font-size:16px;
+	font-weight:600;
+	padding:5px;
+}
+
+body {
+	   background-color:gray;
 }
